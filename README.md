@@ -4,7 +4,7 @@ A two-station machine vision inspection system built with LEGO, a webcam and Pyt
 No AI model and no training data: it uses classic machine vision (color segmentation, blob analysis
 and position checks), the same principles used by industrial vision sensors.
 
-▶️ **Watch the video:** _link coming soon_ · More projects: [chinarsoft.com](https://www.chinarsoft.com)
+▶️ **Watch the video:** [youtu.be/SihZAPA7Mt0](https://youtu.be/SihZAPA7Mt0) · More projects: [chinarsoft.com](https://www.chinarsoft.com)
 
 📊 **Slides:** [LEGO_Vision_Inspection_slides.pdf](presentation/LEGO_Vision_Inspection_slides.pdf) · [speaker notes](presentation/speaker-notes.md)
 
