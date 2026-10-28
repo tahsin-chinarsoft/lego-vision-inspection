@@ -6,6 +6,8 @@ and position checks), the same principles used by industrial vision sensors.
 
 ▶️ **Watch the video:** _link coming soon_ · More projects: [chinarsoft.com](https://www.chinarsoft.com)
 
+📊 **Slides:** [LEGO_Vision_Inspection_slides.pdf](presentation/LEGO_Vision_Inspection_slides.pdf) · [speaker notes](presentation/speaker-notes.md)
+
 ![Test results](docs/results.jpg)
 
 ## What it does
